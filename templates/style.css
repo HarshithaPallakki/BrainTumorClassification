@@ -1,0 +1,32 @@
+/* CSS for index.html */
+body {
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: #333;
+    margin-top: 50px;
+}
+
+form {
+    margin-top: 50px;
+}
+
+input[type="file"] {
+    display: block;
+    margin: 20px auto;
+}
+
+input[type="submit"] {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+
+
